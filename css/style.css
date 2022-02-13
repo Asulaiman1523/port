@@ -131,4 +131,25 @@ border: 12px solid #00b4d8;
     #particles-js{
         width: 100%;
     }
+    .home .content img{
+   height:12rem;
+    width: 12rem;
+    }
+    .home .content h3{
+    font-size: 30px;
+}
+
+.home .content p{
+    color: #444;
+    font-size: 1.1rem;
+}
+}
+@media (max-width:400px){
+.home .content h3{
+    font-size: 25px;
+}
+}
+.home .content p{
+    font-size: 1rem;
+}
 }
